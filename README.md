@@ -1,7 +1,7 @@
 # CookJar
 ![Documentation Coverage](https://benji377.github.io/Cookjar/images/coverage-badge-documentation.svg)
 [![Compodoc-Documentation](https://github.com/Benji377/Cookjar/actions/workflows/compodoc.yml/badge.svg)](https://github.com/Benji377/Cookjar/actions/workflows/compodoc.yml)
-
+<!-- Credits -->
 ### This project was created for the [@tfo-bz](https://github.com/tfobz-informatik) organisation in collaboration with [@Laraib](https://github.com/Lairex59).
 
 <!-- TOC start -->
