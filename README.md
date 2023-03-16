@@ -2,6 +2,8 @@
 ![Documentation Coverage](https://tfobz-informatik.github.io/opendatahub-ahmed-demetz/images/coverage-badge-documentation.svg)
 [![Compodoc-Documentation](https://github.com/tfobz-informatik/opendatahub-ahmed-demetz/actions/workflows/compodoc.yml/badge.svg)](https://github.com/tfobz-informatik/opendatahub-ahmed-demetz/actions/workflows/compodoc.yml)
 
+### This project was created for the [@tfo-bz](https://github.com/tfobz-informatik) organisation in collaboration with [@Laraib](https://github.com/Lairex59).
+
 <!-- TOC start -->
 - [Introduction](#introduction)
 - [Angular instructions](#angular-instructions)
